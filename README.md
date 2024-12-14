@@ -140,6 +140,10 @@ Publish the website in the given URL.
         <img id="modal-img" src="" alt="Enlarged">
     </div>
 
+    <footer>
+        &copy; 2024 designed by Avantika Krishnadas Kundooly. All Rights Reserved.
+    </footer>
+
     <script>
         
         const galleryItems = document.querySelectorAll('.gallery-item img');
@@ -169,6 +173,16 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+
+</main>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
 ```
 
 

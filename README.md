@@ -180,7 +180,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](igallery-1.png)
+![alt text](igallery.png)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.

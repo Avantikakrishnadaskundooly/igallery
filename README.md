@@ -174,21 +174,13 @@ Publish the website in the given URL.
 </body>
 </html>
 
-</main>
-    <footer>
-        <p>&copy; 2024 [Your Name]. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
-
-
 
 ```
 
 
 ## OUTPUT:
 
-![alt text](igallery.png)
+![alt text](igallery-1.png)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
